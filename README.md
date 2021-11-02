@@ -5,6 +5,7 @@ List of Items you can see on my Profile:
   <li>Penguin (a Private Discord Bot)</li>
   <li>Profile Config With README.md</li>
   </ul>
+ <br>
 <hr>
 <br>
 Everything else is private
