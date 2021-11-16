@@ -3,6 +3,7 @@
 List of Items you can see on my Profile:
 <ul>
   <li>Profile Config With README.md</li>
+  <li>Penguin, A Discord Bot</li>
   </ul>
  <br>
 <hr>
