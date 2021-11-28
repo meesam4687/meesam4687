@@ -2,8 +2,7 @@
 **Nothing Special to See here** <br>
 List of Items you can see on my Profile:
 <ul>
-  <li>Profile Config With README.md</li>
-  <li>Penguin, A Discord Bot</li>
+  <li>Absolutely Nothing, I keep everything private.</li>
   </ul>
  <br>
 <hr>
