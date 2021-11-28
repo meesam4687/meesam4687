@@ -5,6 +5,3 @@ List of Items you can see on my Profile:
   <li>Absolutely Nothing, I keep everything private.</li>
   </ul>
  <br>
-<hr>
-<br>
-Everything else is private
