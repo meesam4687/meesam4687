@@ -2,6 +2,7 @@
 **Nothing Special to See here** <br>
 List of Items you can see on my Profile:
 <ul>
-  <li>Absolutely Nothing, I keep everything private.</li>
+  <li>A Discord Auto-Reply to DM's SelfBot</li>
   </ul>
- <br>
+ <br><hr>
+I keep everything private
