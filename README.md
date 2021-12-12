@@ -6,4 +6,4 @@ List of Items you can see on my Profile:
   </ul>
  <hr>
  <br>
-I keep everything private
+I keep almost everything private
