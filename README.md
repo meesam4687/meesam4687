@@ -1,6 +1,3 @@
 # Welcome to my profile
 <hr><br>
-![snake gif](https://github.com/meesam4687/meesam4687/blob/output/github-contribution-grid-snake.gif)
-<br>
-
-**Nothing Special to See here**
+![github contribution grid snake animation](https://raw.githubusercontent.com/meesam4687/meesam4687/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/meesam4687/meesam4687/output/github-contribution-grid-snake.svg#gh-light-mode-only)
