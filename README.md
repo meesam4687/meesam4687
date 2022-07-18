@@ -1,4 +1,4 @@
 # Welcome to my profile
 <hr><br>
-# Watch the snake eat my contributions.
+<h2> Watch the Snake eat my Contributions.</h2>
 <img alt="snake eating my contribution" src="https://github.com/KushalTanna24/KushalTanna24/blob/output/github-contribution-grid-snake.svg">
