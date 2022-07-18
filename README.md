@@ -1,4 +1,6 @@
 # Welcome to my profile
 <hr><br>
-![SnekEat](https://raw.githubusercontent.com/meesam4687/meesam4687/8f283897228c02211ffde18c385bb28cd37c7990/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/meesam4687/meesam4687/blob/output/github-contribution-grid-snake.svg)
+<br>
+
 **Nothing Special to See here**
