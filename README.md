@@ -2,7 +2,7 @@
 <br>
 <h2 align="center">My Github Statistics</h2>
 <div align="center">
-<img alt ="stats" src="https://github-readme-stats.vercel.app/api?username=meesam4687">
+<img alt ="stats" src="https://github-readme-stats.vercel.app/api?username=meesam4687&theme=react">
 </div>
 <h2 align="center"> Watch the Snake eat my Contributions.</h2>
 <div align="center">
