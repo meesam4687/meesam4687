@@ -5,7 +5,7 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meesam4687&theme=tokyonight&hide_border=true">
   <br>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs?username=meesam4687&hide=css&layout=compact&theme=tokyonight&hide_border=true'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs?username=meesam4687&hide=css&theme=tokyonight&hide_border=true'>
 </div>
 <h2 align="center"> Watch the Snake eat my Contributions.</h2>
 <div align="center">
