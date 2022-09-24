@@ -7,6 +7,10 @@
   <br>
   <img src='https://github-readme-stats.vercel.app/api/top-langs?username=meesam4687&hide=css&layout=compact&theme=tokyonight&hide_border=true'>
 </div>
+<h2 align="center">What I can do</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python">
+</div>
 <h2 align="center"> Watch the Snake eat my Contributions.</h2>
 <div align="center">
 <img alt="snake eating my contribution" src="https://github.com/meesam4687/meesam4687/blob/output/github-contribution-grid-snake.svg">
