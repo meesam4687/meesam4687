@@ -1,11 +1,11 @@
 <h2 align="center">Welcome to My Profile <img src="https://raw.githubusercontent.com/boidushya/Boidushya/main/wave.gif" width="30px"></h2>
 <h2 align="center">My Github Statistics</h2>
 <div align="center">
-<img alt ="stats" src="https://github-readme-stats.vercel.app/api?username=meesam4687&show_icons=true&locale=en&theme=aura_dark">
+<img alt ="stats" src="https://github-readme-stats.vercel.app/api?username=meesam4687&show_icons=true&locale=en&theme=tokyonight">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meesam4687&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meesam4687&theme=tokyonight">
   <br>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs?username=meesam4687&hide=css&layout=compact&theme=aura_dark'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs?username=meesam4687&hide=css&layout=compact&theme=tokyonight'>
 </div>
 <h2 align="center"> Watch the Snake eat my Contributions.</h2>
 <div align="center">
