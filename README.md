@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to My Profile <img src="https://raw.githubusercontent.com/boidushya/Boidushya/main/wave.gif" width="30px"></h2>
+<h2 align="center">Welcome to My Profile <img src="https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif" width="30px"></h2>
 <h2 align="center">My Github Statistics</h2>
 <div align="center">
 <img alt ="stats" src="https://github-readme-stats.vercel.app/api?username=meesam4687&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true">
