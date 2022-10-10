@@ -9,7 +9,7 @@
 </div>
 <h2 align="center">What I can do</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,kotlin,nodejs">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,kotlin,nodejs,react">
 </div>
 <h2 align="center"> Watch the Snake eat my Contributions.</h2>
 <div align="center">
