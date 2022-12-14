@@ -11,10 +11,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,python,kotlin,nodejs,react">
 </div>
-<h2 align="center"> Watch the Snake eat my Contributions.</h2>
-<div align="center">
-<img alt="snake eating my contribution" src="https://raw.githubusercontent.com/meesam4687/meesam4687/output/github-contribution-grid-snake.svg">
-</div>
 <h2 align="center">Discord</h2>
 <div align="center">
   <img alt="discord" src="https://lanyard.cnrad.dev/api/809702164724449290">
