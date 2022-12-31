@@ -11,7 +11,3 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,python,kotlin,nodejs,react">
 </div>
-<h2 align="center">Discord</h2>
-<div align="center">
-  <img alt="discord" src="https://lanyard.cnrad.dev/api/809702164724449290">
-</div>
