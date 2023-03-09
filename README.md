@@ -5,7 +5,6 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meesam4687&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
   <br>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs?username=meesam4687&hide=css&layout=compact&theme=tokyonight&hide_border=true'>
 </div>
 <h2 align="center">What I can do</h2>
 <div align="center">
