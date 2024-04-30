@@ -7,4 +7,4 @@
   <br>
 </div>
 <h2>Snake eating contributions</h2>
-<img src="https://raw.githubusercontent.com/meesam4687/meesam4687/output/github-contribution-grid-snake.gif">
+<img src="https://raw.githubusercontent.com/meesam4687/meesam4687/output/github-contribution-grid-snake.svg">
